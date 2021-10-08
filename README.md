@@ -1,5 +1,5 @@
 # go-drink-water
-An CLI application to remind me to hydrate during the workday
+A CLI application to remind me to hydrate during the workday
 
 ## Installation
 ```bash
