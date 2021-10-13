@@ -1,6 +1,8 @@
 # go-drink-water
 A CLI application to remind me to hydrate during the workday
 
+"tested only on ubuntu"
+
 ## Installation
 ```bash
 go build 
